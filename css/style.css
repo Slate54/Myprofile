@@ -1,0 +1,112 @@
+body{
+	font-family: 'architects-daughter';
+	background-image: url("../img/pink-neon-background_53876-91656.jpg");
+	background-position:  center;
+	background-repeat: no-repeat;
+}
+header {
+	background-color: #2F4F4F;
+	text-align: center;
+	font-size: 24px;
+	color: #09021e;
+	padding: 5px 0;
+	width: 100%;
+	height: 30%;
+}
+header h1{
+	font-size: 18px
+}
+
+.btn-dark {
+	color:#09021e;
+	font-weight: 300px;
+	background-color: #9aefef;
+}
+#select {
+	padding: 50px 50px 100px;
+	
+}
+.char-sel {
+	margin: 100px 0 0;
+}
+
+#menu {
+	margin: 50px;
+	background-image: url("../img/Untitled-1.jpg"),;
+	background-position: right;
+}
+#explain h1{
+	color: #d3d5dd;
+	text-align: center;
+	font-size: 25px;
+	margin: 50px;
+	padding: 50px;
+	background-color: hsla(180,25%,25%,0.82);
+	border-radius: 10px;
+}
+#estudios{
+	background-color: #b6d8d6;
+}
+#estudios h1{
+	color: #d3d5dd;
+	font-family: "architects-daughter";
+	border-bottom: solid 2px #EAA0E1;
+	border-width: 1px;
+	text-align: center;
+	background-color: hsla(180,25%,25%,0.90);
+	margin: 10px 0 0;
+	padding: 20px;
+}
+
+.section {
+	font-family: "architects-daughter";
+	margin: 50px 20px;
+	padding: 20px;
+	background-image: url("../img/border-vertical.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 2px;
+}
+
+.section h2{
+	text-align: center;
+	font-size: 30px;
+	color: #120038;
+}
+.section p{
+	text-align: left;
+	font-size: 20px;
+	color: #120038;
+	padding: 50px 50px;
+}
+.background {
+	background-color: #2f4f4f;
+}
+#about-me{
+	color: #d3d5dd;
+	align-content: center;
+	margin: 20px;
+	padding: 10px;
+}
+#about-me h1{
+	font-size: 40px;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#about-me h2{
+	text-align: center;
+}
+#about-me img{
+	margin: 20px;
+}
+footer {
+	font-size: 15px;
+	color: #120038;
+	background-color: hsla(176,30%,78%,0.82);
+	margin: 40px 0px 0px;
+	text-align: center;
+	font-weight: 100;
+	padding: 15px;
+	align-content: stretch;
+}
